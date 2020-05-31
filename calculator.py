@@ -6,7 +6,7 @@ first_number = tkinter.StringVar()
 second_number = tkinter.StringVar()
 fin_ans = tkinter.StringVar()
 ans = None
-operator = ""   #string for knwing about the opted opeartor
+operator = ""   #string for knowing about the opted opeartor
 
 
 def set_operator(text):
